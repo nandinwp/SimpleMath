@@ -1,0 +1,8 @@
+C:\Users\Henrique\source\repos\TheMath\TheMath\obj\Debug\TheMath.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\repos\TheMath\TheMath\obj\Debug\TheMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henrique\source\repos\TheMath\TheMath\obj\Debug\TheMath.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\TheMath\TheMath\bin\Debug\TheMath.exe.config
+C:\Users\Henrique\source\repos\TheMath\TheMath\bin\Debug\TheMath.exe
+C:\Users\Henrique\source\repos\TheMath\TheMath\bin\Debug\TheMath.pdb
+C:\Users\Henrique\source\repos\TheMath\TheMath\obj\Debug\TheMath.exe
+C:\Users\Henrique\source\repos\TheMath\TheMath\obj\Debug\TheMath.pdb
